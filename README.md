@@ -1,15 +1,73 @@
-## 🌐 Socials:
+<div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/calico.nino#6804)
+```
+   ___       _ _             _   _ _
+  / __\__ _ | (_) ___ ___   | \ | (_)_ __   ___
+ / /  / _` || | |/ __/ _ \  |  \| | | '_ \ / _ \
+/ /__| (_| || | | (_| (_) | | |\  | | | | | (_) |
+\____/\__,_||_|_|\___\___/  |_| \_|_|_| |_|\___/
+```
 
-# 📊 GitHub Stats:
+# 🏴‍☠️ Calico Nino
 
-![](https://github-readme-stats.vercel.app/api?username=CalicoNino&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CalicoNino&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CalicoNino&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Software Engineer**
+
+> *"The problem isn't the problem. The problem is your attitude about the problem."*
+> — Capt. Jack Sparrow
+
+[![Twitter](https://img.shields.io/badge/@calico__nino-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/calico_nino)
+
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=elshenak&icon=0&color=0)](https://visitcount.itsvg.in)
+### About
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Currently building **Sai**, a perpetuals trading platform on [Nibiru Chain](https://nibiru.fi). Deepening my Rust knowledge while shipping production Go and React.
+
+- Building **Sai** — perps platform on Nibiru Chain
+- Contributing to the **Nibiru Chain** ecosystem
+- Improving my **Rust** skills
+
+---
+
+### Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Sai** | Perpetuals trading platform on Nibiru Chain | Rust · Go · React |
+| **Nibiru Chain** | Blockchain infrastructure contributions | Go · Cosmos SDK |
+
+---
+
+### Stack
+
+<div align="center">
+
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CalicoNino&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CalicoNino&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CalicoNino&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+<sub>[![](https://visitcount.itsvg.in/api?id=CalicoNino&icon=0&color=1)](https://visitcount.itsvg.in)</sub>
+</div>
