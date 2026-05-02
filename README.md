@@ -49,12 +49,15 @@ Currently building **Sai**, a perpetuals trading platform on [Nibiru Chain](http
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 
 </div>
 
 ---
-
-### GitHub Stats
 
 <div align="center">
 
@@ -64,10 +67,4 @@ Currently building **Sai**, a perpetuals trading platform on [Nibiru Chain](http
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CalicoNino&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
-
----
-
-<div align="center">
-<sub>[![](https://visitcount.itsvg.in/api?id=CalicoNino&icon=0&color=1)](https://visitcount.itsvg.in)</sub>
 </div>
