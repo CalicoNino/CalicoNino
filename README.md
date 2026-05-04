@@ -12,7 +12,8 @@
 
 **Software Engineer**
 
-> *"The problem isn't the problem. The problem is your attitude about the problem."*
+> *"The problem is not the problem. The problem is your attitude about the problem. Do you understand?"*
+>
 > — Capt. Jack Sparrow
 
 [![Twitter](https://img.shields.io/badge/@calico__nino-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/calico_nino)
