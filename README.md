@@ -17,6 +17,7 @@
 > — Capt. Jack Sparrow
 
 [![Twitter](https://img.shields.io/badge/@calico__nino-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/calico_nino)
+[![Website](https://img.shields.io/badge/caliconino.dev-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://caliconino.dev/)
 
 </div>
 
@@ -29,15 +30,6 @@ Currently building **Sai**, a perpetuals trading platform on [Nibiru Chain](http
 - Building **Sai** — perps platform on Nibiru Chain
 - Contributing to the **Nibiru Chain** ecosystem
 - Improving my **Rust** skills
-
----
-
-### Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **Sai** | Perpetuals trading platform on Nibiru Chain | Rust · Go · React |
-| **Nibiru Chain** | Blockchain infrastructure contributions | Go · Cosmos SDK |
 
 ---
 
