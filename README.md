@@ -27,7 +27,8 @@
 
 Currently building **Sai**, a perpetuals trading platform on [Nibiru Chain](https://nibiru.fi). Deepening my Rust knowledge while shipping production Go and React.
 
-- Building **Sai** — perps platform on Nibiru Chain
+- Building **[Sai](https://app.sai.fun/)** — perps platform on Nibiru Chain
+- Building **[Olympus Volleyball](https://www.olympusvolleyball.com/)** — a volleyball league and community
 - Contributing to the **Nibiru Chain** ecosystem
 - Improving my **Rust** skills
 
