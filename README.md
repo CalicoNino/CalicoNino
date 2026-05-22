@@ -59,6 +59,4 @@ Currently building **Sai**, a perpetuals trading platform on [Nibiru Chain](http
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CalicoNino&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CalicoNino&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 </div>
