@@ -10,7 +10,7 @@
 
 # 🏴‍☠️ Calico Nino
 
-**Software Engineer**
+**Senior Software Engineer**
 
 > *"The problem is not the problem. The problem is your attitude about the problem. Do you understand?"*
 >
